@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aubrette - welcome to my GitHub.</h1>
 <h3 align="center">I'm a full-stack software engineer with a background the hospitality, memorial and legal industries.</h3>
 
-- 👨‍💻 For more info, check out my website at: [https://swiontech.com/](https://swiontech.com/)
+- 👨‍💻 For more info, check out my <a href="https://swiontech.com/">website</a>!
 
 - 📫 How to reach me: **aubrette.the.dev@gmail.com**
 
