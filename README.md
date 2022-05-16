@@ -1,7 +1,7 @@
 <img src="https://github.com/swionTech/swionTech/blob/main/cooltones.png?raw=true" alt="swionTech banner">
 
 <h1 align="center">Hi 👋, I'm Aubrette - welcome to my GitHub.</h1>
-<h3 align="center">I'm a full-stack software engineer with a background the hospitality and memorial industries.</h3>
+<h3 align="center">I'm a full-stack software engineer with a passion for puzzles and problem solving.</h3>
 
 - 👨‍💻 For more info, check out my <a href="https://swiontech.com/">website</a>!
 
