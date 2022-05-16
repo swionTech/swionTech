@@ -1,7 +1,7 @@
 <img src="https://github.com/swionTech/swionTech/blob/main/cooltones.png?raw=true" alt="swionTech banner">
 
 <h1 align="center">Hi 👋, I'm Aubrette - welcome to my GitHub.</h1>
-<h3 align="center">I'm a full-stack software engineer with a background the hospitality, memorial and legal industries.</h3>
+<h3 align="center">I'm a full-stack software engineer with a background the hospitality and memorial industries.</h3>
 
 - 👨‍💻 For more info, check out my <a href="https://swiontech.com/">website</a>!
 
@@ -23,3 +23,27 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swiontech&" alt="swiontech" /></p> -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=swionTech&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<br>
+<h2 align="center">Projects</h2>
+<table>
+  <tbody>
+    <tr>
+      <td width="50%" v-align="top">
+        <h3 align="center">Doggo Generator</h3>
+        <a href="https://generateadoggo.netlify.app/"><img src="https://github.com/swionTech/DoggoGenerator/blob/main/doggo.gif?raw=true" alt="preview of Doggo Generator app"></a>
+        <br>
+        <p align="center"><a href="https://github.com/swionTech/DoggoGenerator">View Repo</a>  |  <a href="https://generateadoggo.netlify.app/">View Site</a></p>
+      </td> 
+      <td width="50%" v-align="top">
+        <h3 align="center">Fox Friends</h3>
+        <a href="https://foxfriends.netlify.app/"><img src="https://raw.githubusercontent.com/swionTech/foxfriends/main/images/foxfriends.gif" alt="preview of Fox Friends app"></a>
+        <br>
+        <p align="center"><a href="https://github.com/swionTech/foxfriends">View Repo</a>  |  <a href="https://foxfriends.netlify.app/">View Site</a></p>
+      </td>
+    </tr>
+  </tbody>
+ </table>
+  
+
+        
