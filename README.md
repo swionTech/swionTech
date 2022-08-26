@@ -53,7 +53,7 @@
       <tr>
       <td width="50%" v-align="top">
         <h3 align="center">Hey, Bartender!</h3>
-        <a href="https://heybartender.netlify.app/"><img src="https://github.com/swionTech/heybartender/blob/main/heybartendergif2.gif" alt="preview of Hey, Bartender! app"></a>
+        <a href="https://heybartender.netlify.app/"><img src="https://github.com/swionTech/heybartender/blob/main/heybartendergiffixed.gif" alt="preview of Hey, Bartender! app"></a>
         <br>
         <p align="center"><a href="https://github.com/swionTech/heybartender">View Repo</a>  |  <a href="https://heybartender.netlify.app/">View Site</a></p>
       </td>
