@@ -36,8 +36,6 @@
 <h2 align="center">Projects</h2>
 <table>
   <tbody>
-   <tr>
-
     <tr>
       <td width="50%" v-align="top">
         <h3 align="center">Doggo Generator</h3>
