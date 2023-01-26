@@ -43,7 +43,8 @@
         <br>
         <p align="center"><a href="https://github.com/swionTech/FoodFinder">View Repo</a>  |  <a href=#>View Site (Coming Soon)</a></p>
       </td>
-      
+    </tr>
+    <tr>
       <td width="50%" v-align="top">
         <h3 align="center">Doggo Generator</h3>
         <a href="https://generateadoggo.netlify.app/"><img src="https://github.com/swionTech/DoggoGenerator/blob/main/doggo.gif?raw=true" alt="preview of Doggo Generator app"></a>
