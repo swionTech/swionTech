@@ -39,7 +39,7 @@
     <tr>
        <td width="50%" v-align="top">
         <h3 align="center">FoodFinder</h3>
-        <a href="https://github.com/swionTech/FoodFinder"><img src="https://github.com/swionTech/foodfinder/blob/main/public/images/foodfindercrop.gif" alt="preview of FoodFinder app"></a>
+        <a href="https://github.com/swionTech/FoodFinder"><img src="https://github.com/swionTech/foodfinder/blob/main/public/images/foodfinder.gif" alt="preview of FoodFinder app"></a>
         <br>
         <p align="center"><a href="https://github.com/swionTech/FoodFinder">View Repo</a>  |  <a href=#>View Site (Coming Soon)</a></p>
       </td>
@@ -49,7 +49,12 @@
         <br>
         <p align="center"><a href="https://github.com/swionTech/DoggoGenerator">View Repo</a>  |  <a href="https://generateadoggo.netlify.app/">View Site</a></p>
       </td> 
-
+<!--       <td width="50%" v-align="top">
+        <h3 align="center">Fox Friends</h3>
+        <a href="https://foxfriends.netlify.app/"><img src="https://raw.githubusercontent.com/swionTech/foxfriends/main/images/foxfriends.gif" alt="preview of Fox Friends app"></a>
+        <br>
+        <p align="center"><a href="https://github.com/swionTech/foxfriends">View Repo</a>  |  <a href="https://foxfriends.netlify.app/">View Site</a></p>
+      </td> -->
       </tr>
       <tr>
       <td width="50%" v-align="top">
@@ -58,12 +63,6 @@
         <br>
         <p align="center"><a href="https://github.com/swionTech/heybartender">View Repo</a>  |  <a href="https://heybartender.netlify.app/">View Site</a></p>
       </td>
-<!--               <td width="50%" v-align="top">
-        <h3 align="center">Fox Friends</h3>
-        <a href="https://foxfriends.netlify.app/"><img src="https://raw.githubusercontent.com/swionTech/foxfriends/main/images/foxfriends.gif" alt="preview of Fox Friends app"></a>
-        <br>
-        <p align="center"><a href="https://github.com/swionTech/foxfriends">View Repo</a>  |  <a href="https://foxfriends.netlify.app/">View Site</a></p>
-      </td> -->
     </tr>
   </tbody>
  </table>
