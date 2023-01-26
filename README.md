@@ -36,6 +36,7 @@
 <h2 align="center">Projects</h2>
 <table>
   <tbody>
+    <tr>
   
        <td width="50%" v-align="top">
         <h3 align="center">FoodFinder</h3>
@@ -50,7 +51,9 @@
         <br>
         <p align="center"><a href="https://github.com/swionTech/DoggoGenerator">View Repo</a>  |  <a href="https://generateadoggo.netlify.app/">View Site</a></p>
       </td> 
-  
+    </tr>
+    
+    <tr>
       <td width="50%" v-align="top">
         <h3 align="center">Fox Friends</h3>
         <a href="https://foxfriends.netlify.app/"><img src="https://raw.githubusercontent.com/swionTech/foxfriends/main/images/foxfriends.gif" alt="preview of Fox Friends app"></a>
@@ -64,7 +67,7 @@
         <br>
         <p align="center"><a href="https://github.com/swionTech/heybartender">View Repo</a>  |  <a href="https://heybartender.netlify.app/">View Site</a></p>
       </td>
-       
+    </tr>
 
   </tbody>
  </table>
