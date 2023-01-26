@@ -36,7 +36,7 @@
 <h2 align="center">Projects</h2>
 <table>
   <tbody>
-    <tr><td width="25%" v-align="top">
+    <td width="25%" v-align="top">
         <h3 align="center">FoodFinder</h3>
         <a href="https://github.com/swionTech/FoodFinder"><img src="https://github.com/swionTech/foodfinder/blob/main/public/images/foodfinder.gif" alt="preview of FoodFinder app"></a>
         <br>
@@ -63,8 +63,6 @@
         <br>
         <p align="center"><a href="https://github.com/swionTech/heybartender">View Repo</a>  |  <a href="https://heybartender.netlify.app/">View Site</a></p>
       </td>
-    </tr>
-
   </tbody>
  </table>
   
