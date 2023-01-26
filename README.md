@@ -39,9 +39,9 @@
     <tr>
        <td width="50%" v-align="top">
         <h3 align="center">FoodFinder</h3>
-        <a href="https://github.com/swionTech/FoodFinder"><img src="https://github.com/swionTech/foodfinder/blob/main/public/images/foodfinder.gif" alt="preview of FoodFinder app"></a>
+        <a href="https://github.com/swionTech/FoodFinder"><img src="https://github.com/swionTech/foodfinder/blob/main/public/images/foodfindercrop.gif" alt="preview of FoodFinder app"></a>
         <br>
-        <p align="center"><a href="https://github.com/swionTech/FoodFinder">View Repo</a>  |  <a href=#>View Site (Coming Soon)</a></p>
+        <p align="center"><a href="https://github.com/swionTech/FoodFinder">View Repo</a>  |  View Site (Coming Soon)</p>
       </td>
       <td width="50%" v-align="top">
         <h3 align="center">Doggo Generator</h3>
