@@ -60,8 +60,7 @@
         <br>
         <p align="center"><a href="https://github.com/swionTech/foxfriends">View Repo</a>  |  <a href="https://foxfriends.netlify.app/">View Site</a></p>
       </td>
-        </tr>
-    <tr>
+
       <td width="50%" v-align="top">
         <h3 align="center">Hey, Bartender!</h3>
         <a href="https://heybartender.netlify.app/"><img src="https://github.com/swionTech/heybartender/blob/main/heybartendergiffixed.gif" alt="preview of Hey, Bartender! app"></a>
